@@ -1,0 +1,22 @@
+
+
+          Advanced Performance and Massive Scaling Driven by AI
+
+
+https://insidebigdata.com/2019/04/29/advanced-performance-and-massive-scaling-driven-by-ai-and-dl/
+
+keypoint: 'Without the right data storage platform, a GPU-based computing platform is just a botleneck...'
+
+This article describes in general how things or technology have evolved and is evolving.
+I like the use cases mentioned, such as drug discovery and autonomous vehicles aside from
+the usual shopper trends.  And all this is a result of collecting our everyday habits.
+We start to understand the scale of this data.
+
+It is not about sitting down in front of our 'old' computers with new software.
+It is all new construction.  Understanding the limitations of infrastructure permits for change.
+
+I just wonder if we will reach a point where we max out.  The new infrastructures will support
+humanity for how long.
+
+
+
