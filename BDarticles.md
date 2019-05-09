@@ -3,7 +3,6 @@
 # What is a data lake? Flexible big data management explained
 
 https://www.infoworld.com/article/3305843/what-is-a-data-lake-flexible-big-data-management-explained.html
-| [https://www.infoworld.com/article/3305843/what-is-a-data-lake-flexible-big-data-management-explained.html][PlDb]
  
 
 This was a good explanation of Data lake vs data warehouse.  It is good to read the definition
