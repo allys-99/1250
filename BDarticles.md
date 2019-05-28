@@ -1,3 +1,15 @@
+# A Data Lake Architecture with Hadoop and Open Source Search Engines
+
+The examples used in this article helps to understand what are some of
+the challenges are when using a data lake.  With time, there will be more
+applications or search engines that will sift through all that data
+in a reasonable amount of time and then make it easier for data warehouses
+to do their work.
+
+
+https://www.searchtechnologies.com/blog/search-data-lake-with-big-data
+
+
 
 
 # Dark Data
