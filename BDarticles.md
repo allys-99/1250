@@ -1,3 +1,15 @@
+# Data lake security
+
+Storing information is one thing and the important thing is to secure the data in a datalake.
+Apprently there are 4 areas to secure in a datalake: Platform Access & privileges,
+Network Isolation, Data Protection and Document Level Security.  It's a brief insight into
+where security needs to be in place.
+Breaking down the structure of security makes it easier to implement and understand.
+
+https://www.searchtechnologies.com/blog/data-lake-security
+
+
+
 # A Data Lake Architecture with Hadoop and Open Source Search Engines
 
 The examples used in this article helps to understand what are some of
