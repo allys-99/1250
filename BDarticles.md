@@ -1,3 +1,24 @@
+
+# How Big Data Is Helping Drivers Stay Safer on the Road
+
+https://insidebigdata.com/2018/12/27/big-data-helping-drivers-stay-safer-road/
+
+This time of year is graduation.  Every year at this time there are awful car accidents
+with involving young people.  The sooner humans are not driving the safer the roads will be.
+Big Data can show people where the problem areas are.  With statistics like 80% of crashes are
+due to human error, people will pay attention.
+
+https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2017/02/09/troopers-use-big-data-to-predict-crash-sites
+The state of Tennessee, used big data to actually map accidents sites for the public.  This
+is very helpful to know that the next bend you are coming around previously had 3 accidents a year.
+
+https://insidebigdata.com/2018/12/27/big-data-helping-drivers-stay-safer-road/
+The people that are on the road every day to earn their living.  Businesses can benifit
+from the data collected.
+
+
+
+***
 # Data lake security
 
 Storing information is one thing and the important thing is to secure the data in a datalake.
@@ -9,7 +30,7 @@ Breaking down the structure of security makes it easier to implement and underst
 https://www.searchtechnologies.com/blog/data-lake-security
 
 
-
+***
 # A Data Lake Architecture with Hadoop and Open Source Search Engines
 
 The examples used in this article helps to understand what are some of
@@ -22,7 +43,7 @@ to do their work.
 https://www.searchtechnologies.com/blog/search-data-lake-with-big-data
 
 
-
+***
 
 # Dark Data
 
@@ -45,7 +66,7 @@ https://www.kdnuggets.com/2015/01/shining-light-on-dark-data.html
 
 
 
-
+***
 # What is a data lake? Flexible big data management explained
 
 https://www.infoworld.com/article/3305843/what-is-a-data-lake-flexible-big-data-management-explained.html
