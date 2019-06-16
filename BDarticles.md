@@ -1,3 +1,14 @@
+# The different types of NoSQL databases
+
+https://opensourceforu.com/2017/05/different-types-nosql-databases/
+
+We covered NoSQL databases in class and i thought this article is a nice addition or complement to that.
+It has a good explanation of how this technology came about and it's uses.  The important takeaway
+is that it is not replacing rdbms on the other hand it is providing another another niche that is needed.
+There are some examples of it's application to have it make more sense.
+
+
+
 
 # How Big Data Is Helping Drivers Stay Safer on the Road
 
